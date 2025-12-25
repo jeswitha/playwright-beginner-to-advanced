@@ -159,6 +159,7 @@ You are ready for Level 1 if:
 //////////////////////////////////////////////////////////////////
 
 0.1 What Is Software Testing?
+
 Non-technical mental model
 
 Software testing is like checking a new house before you move in:
@@ -216,6 +217,7 @@ Write 3 expectations like:
 That’s testing.
 
 0.2 Manual Testing vs Automated Testing
+
 Manual testing (non-technical)
 
 Manual testing is like tasting food while cooking:
@@ -257,6 +259,7 @@ Humans are best at finding new problems.
 Automation is best at preventing old problems from returning.
 
 0.3 Why Automation Exists (What Problems It Solves)
+
 What automation solves (non-technical)
 
 Imagine you own a restaurant and every day you must check:
